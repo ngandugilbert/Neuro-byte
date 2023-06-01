@@ -1,4 +1,4 @@
-# basic-classifiers 🤖
+# Neuro-byte 🤖
 This is an introduction to deep learning using the tensorflow API.
 # For running offline
 Ennsure you have the following on your machine
